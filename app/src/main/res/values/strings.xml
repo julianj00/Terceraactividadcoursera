@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">parcialjaramillo</string>
+    <string name="etiqueta1">7x8</string>
+    <string name="etiqueta2">3x5</string>
+    <string name="etiqueta3">2x9</string>
+    <string name="botoncomprobar">comprobar</string>
+    <string name="botontablas">ir a tablas</string>
+    <string name="botontablas1">X1</string>
+    <string name="botontablas2">X3</string>
+    <string name="botontablas3">X4</string>
+    <string name="txt1"></string>
+    <string name="txt2"></string>
+    <string name="txt3"></string>
+</resources>
